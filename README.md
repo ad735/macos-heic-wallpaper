@@ -20,6 +20,17 @@
 
 <img width="2268" height="1330" alt="wechat_2025-09-21_100524_999" src="https://github.com/user-attachments/assets/1778511f-c2b7-40dd-94ae-228d1fc6e9da" />
 
+3\
+
+壁纸名称：布达拉宫
+
+<img width="2268" height="1362" alt="wechat_2025-09-22_140743_534" src="https://github.com/user-attachments/assets/f3c288f6-1777-434a-95b6-291934a5f988" />
+
+4\
+
+壁纸名称：索科特拉群岛
+
+<img width="2268" height="1362" alt="wechat_2025-09-22_140621_936" src="https://github.com/user-attachments/assets/dab5c9b0-9187-42a5-b2f1-9fb882e2e264" />
 
 
 
