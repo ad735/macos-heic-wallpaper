@@ -1,9 +1,9 @@
 自制Macos Heic格式壁纸
 
+默认风景壁纸更新时间：早上7:00-傍晚18:00每小时更新一张（除Tahoe壁纸）
+
 
 1\
-
-壁纸时段如下：6时-7时-8时-9时-10时-11时-12时-14时-16时-17时-18时-19时
 
 
 壁纸名称：哈尔施塔特（Hallstatt）
@@ -13,7 +13,6 @@
 
 2\
 
-壁纸时段如下：0时-3时-6时-9时-12时-15时-18时-21时
 
 壁纸名称：太浩湖（Tahoe）
 
@@ -33,7 +32,9 @@
 <img width="2268" height="1362" alt="wechat_2025-09-22_140621_936" src="https://github.com/user-attachments/assets/dab5c9b0-9187-42a5-b2f1-9fb882e2e264" />
 
 
+5\壁纸名称：武陵源
 
+<img width="2268" height="1362" alt="wechat_2025-09-29_163317_423" src="https://github.com/user-attachments/assets/1358947e-63cb-4f18-8fc4-38cf15e07d68" />
 
 
 犯我中华者，虽远必诛！
